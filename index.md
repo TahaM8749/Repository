@@ -16,7 +16,7 @@ title: My Portfolio
       <button onclick="document.getElementById('demo1').style.display='block'">Demo</button>
       <div id="demo1" style="display:none;">
         <video width="100%" height="auto" controls>
-          <source src="FindNumberDemo.mov" type="video/mp4">
+          <source src="FindNumberDemo.mov" type="video/mov">
           Your browser does not support the video tag.
         </video>
       </div>
@@ -65,7 +65,7 @@ title: My Portfolio
     </p>
     <div id="demo3" style="display:none;">
       <video width="100%" height="auto" controls>
-        <source src="TravelDemo.mp4" type="video/mp4">
+        <source src="DemoTravelReminder.mov" type="video/mov">
         Your browser does not support the video tag.
       </video>
     </div>
