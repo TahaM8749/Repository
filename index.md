@@ -36,5 +36,13 @@ title: My Portfolio
   <p>I am a Montessori educator turned software engineer passionate about purpose-driven tech.</p>
 </div>
 
+<div id="box3" style="display:none;">
+  <h2>Demo Video</h2>
+  <video width="100%" height="auto" controls>
+    <source src="demovideo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 
 
