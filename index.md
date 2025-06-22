@@ -70,7 +70,7 @@ title: My Portfolio
       </video>
     </div>
   </div>
-  <img src="travelReminder.png" alt="Travel Reminder Project" width="300" style="border-radius: 10px;">
+  <img src="TravelReminder.png" alt="Travel Reminder" width="300" style="border-radius: 10px;">
 </div>
 
 ---
