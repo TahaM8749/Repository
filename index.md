@@ -74,12 +74,10 @@ title: My Portfolio
 
 ---
 
-## About Me {% comment %}(click to show/hide){% endcomment %}
+## About Me (click to show/hide)
 
 <details>
-  {% comment %}
-  <summary style="cursor: pointer;">Click to expand</summary>
-  {% endcomment %}
+  <summary style="cursor: pointer;">Click to expand</summary
   <p>
     I am a Montessori educator turned software engineer passionate about purpose-driven tech. I bring empathy, rapid learning, and creativity into every line of code. With a strong background in Python, AI, and frontend development, I create tools that solve real problems and inspire curiosity.
   </p>
