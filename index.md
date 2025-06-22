@@ -14,7 +14,7 @@ title: My Portfolio
     Show About Me
   </button>
 
-  <button onclick="window.open('demo.pdf', '_blank')">
+  <button onclick="document.getElementById('box2').style.display='block'; document.getElementById('box1').style.display='none';">
     Show Demo
   </button>
   
