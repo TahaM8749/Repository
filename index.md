@@ -38,7 +38,7 @@ title: My Portfolio
       <button onclick="document.getElementById('demo2').style.display='block'">Demo</button>
       <div id="demo2" style="display:none;">
         <video width="100%" height="auto" controls>
-          <source src="videoDemo.mp4" type="video/mp4">
+          <source src="demoVideo.mp4" type="video/mp4">
           Your browser does not support the video tag.
         </video>
       </div>
