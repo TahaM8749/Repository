@@ -35,8 +35,8 @@ title: My Portfolio
   <div style="flex: 1;">
     <p>An interactive game where players take turns drawing lines to complete squares. Built in Kivy, this project highlights turn-based gameplay, dynamic UI updates, and scoring logic.</p>
     <p>
-      <button onclick="document.getElementById('demo1').style.display='block'">Demo</button>
-      <div id="demo1" style="display:none;">
+      <button onclick="document.getElementById('demo2').style.display='block'">Demo</button>
+      <div id="demo2" style="display:none;">
         <video width="100%" height="auto" controls>
           <source src="videoDemo.mp4" type="video/mp4">
           Your browser does not support the video tag.
