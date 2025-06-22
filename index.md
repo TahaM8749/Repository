@@ -1,22 +1,31 @@
 ---
 layout: default
-title: Welcome
+title: My Portfolio
 ---
 
-# Hello, I'm testing 👋
+# Welcome to My Portfolio
 
-I'm a purpose-driven software engineer transitioning from a Montessori leadership role.  
-With a strong foundation in full-stack development and AI, I bring a human-centered approach to tech.
+<p>
+  <button onclick="document.getElementById('box1').style.display='block'; document.getElementById('box2').style.display='none';">
+    Show Projects
+  </button>
 
-### 🔧 Skills
-- Python, JavaScript, React, Firebase
-- Full-stack development
-- AI programming & automation
+  <button onclick="document.getElementById('box2').style.display='block'; document.getElementById('box1').style.display='none';">
+    Show About Me
+  </button>
+</p>
 
-### 🌱 Recent Highlights
-- Increased engagement by 75%
-- Improved productivity by 60%
-- Improved colleagues productivity by 90%
-- Built multiple AI-powered learning tools
+<div id="box1" style="display:none;">
+  <h2>Projects</h2>
+  <ul>
+    <li>AI Chatbot</li>
+    <li>Educational App</li>
+    <li>Game in Python</li>
+  </ul>
+</div>
 
-[Check out my GitHub](https://github.com/YOUR_USERNAME)
+<div id="box2" style="display:none;">
+  <h2>About Me</h2>
+  <p>I am a Montessori educator turned software engineer passionate about purpose-driven tech.</p>
+</div>
+
