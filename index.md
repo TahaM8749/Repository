@@ -20,8 +20,6 @@ title: My Portfolio
           Your browser does not support the video tag.
         </video>
       </div>
-
-      <a href="https://github.com/yourusername/hangman" target="_blank"><button>Code</button></a>
     </p>
   </div>
   <img src="FindNumber.png" alt="Find the Number Game" width="300" style="border-radius: 10px;">
@@ -42,7 +40,6 @@ title: My Portfolio
           Your browser does not support the video tag.
         </video>
       </div>
-      <a href="https://github.com/yourusername/connect-the-dots" target="_blank"><button>Code</button></a>
     </p>
   </div>
   <img src="connectTheDots.jpeg" alt="Connect the Dots Game" width="300" style="border-radius: 10px;">
