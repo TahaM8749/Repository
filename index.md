@@ -6,18 +6,9 @@ title: My Portfolio
 # Welcome to My Portfolio
 
 <p>
-  <button onclick="document.getElementById('box1').style.display='block'; document.getElementById('box2').style.display='none';">
-    Show Projects
-  </button>
-
-  <button onclick="document.getElementById('box2').style.display='block'; document.getElementById('box1').style.display='none';">
-    Show About Me
-  </button>
-
-  <button onclick="document.getElementById('box2').style.display='block'; document.getElementById('box1').style.display='none';">
-    Show Demo
-  </button>
-  
+  <button onclick="showBox('box1')">Show Projects</button>
+  <button onclick="showBox('box2')">Show About Me</button>
+  <button onclick="showBox('box3')">Show Demo</button>
 </p>
 
 <div id="box1" style="display:none;">
