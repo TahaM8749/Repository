@@ -10,9 +10,9 @@ title: My Portfolio
 ### Find the Number
 
 A word-guessing game built in Python using Pygame. It includes multiple rounds, a graphical interface, and logic for tracking guesses.
-
+<img src="FindNumber.png" alt="Connect the Dots" width="400">
 <p>
-  <a href="hangman_demo.mp4" target="_blank"><button>Demo</button></a>
+  <a href="FindNumber.mov" target="_blank"><button>Demo</button></a>
   <a href="https://github.com/yourusername/hangman" target="_blank"><button>Code</button></a>
 </p>
 
@@ -22,7 +22,7 @@ A word-guessing game built in Python using Pygame. It includes multiple rounds, 
 An interactive game where players take turns drawing lines to complete squares. Built in Kivy, this project highlights player turns, score tracking, and dynamic UI updates.
 <img src="connectTheDots.jpeg" alt="Connect the Dots" width="400">
 <p>
-  <a href="connect_demo.mp4" target="_blank"><button>Demo</button></a>
+  <a href="demoVideo.mp4" target="_blank"><button>Demo</button></a>
   <a href="https://github.com/yourusername/connect-the-dots" target="_blank"><button>Code</button></a>
 </p>
 
