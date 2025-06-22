@@ -12,7 +12,7 @@ title: My Portfolio
 A word-guessing game built in Python using Pygame. It includes multiple rounds, a graphical interface, and logic for tracking guesses.
 <img src="FindNumber.png" alt="Connect the Dots" width="400">
 <p>
-  <a href="FindNumber.mov" target="_blank"><button>Demo</button></a>
+  <a href="FindNumberDemo.mov" target="_blank"><button>Demo</button></a>
   <a href="https://github.com/yourusername/hangman" target="_blank"><button>Code</button></a>
 </p>
 
