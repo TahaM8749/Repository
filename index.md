@@ -13,7 +13,14 @@ title: My Portfolio
   <div style="flex: 1;">
     <p>A number-finding game built in Python using Pygame. It includes multiple rounds, interactive line drawing, sound feedback, and game logic that ends on incorrect selections.</p>
     <p>
-      <a href="FindNumberDemo.mov" target="_blank"><button>Demo</button></a>
+      <button onclick="document.getElementById('demo1').style.display='block'">Demo</button>
+      <div id="demo1" style="display:none;">
+        <video width="100%" height="auto" controls>
+          <source src="FindNumberDemo.mov" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+
       <a href="https://github.com/yourusername/hangman" target="_blank"><button>Code</button></a>
     </p>
   </div>
@@ -28,7 +35,13 @@ title: My Portfolio
   <div style="flex: 1;">
     <p>An interactive game where players take turns drawing lines to complete squares. Built in Kivy, this project highlights turn-based gameplay, dynamic UI updates, and scoring logic.</p>
     <p>
-      <a href="demoVideo.mp4" target="_blank"><button>Demo</button></a>
+      <button onclick="document.getElementById('demo1').style.display='block'">Demo</button>
+      <div id="demo1" style="display:none;">
+        <video width="100%" height="auto" controls>
+          <source src="videoDemo.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
       <a href="https://github.com/yourusername/connect-the-dots" target="_blank"><button>Code</button></a>
     </p>
   </div>
