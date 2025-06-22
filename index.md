@@ -15,7 +15,7 @@ title: My Portfolio
     <p>
       <button onclick="document.getElementById('demo1').style.display='block'">Demo</button>
       <div id="demo1" style="display:none;">
-        <video width="100%" height="auto" controls>
+        <video width="100%" height="auto" controls muted autoplay>
           <source src="FindNumberDemo.mov" type="video/mov">
           Your browser does not support the video tag.
         </video>
@@ -35,7 +35,7 @@ title: My Portfolio
     <p>
       <button onclick="document.getElementById('demo2').style.display='block'">Demo</button>
       <div id="demo2" style="display:none;">
-        <video width="100%" height="auto" controls>
+        <video width="100%" height="auto" controls muted autoplay>
           <source src="demoVideo.mp4" type="video/mp4">
           Your browser does not support the video tag.
         </video>
@@ -64,7 +64,7 @@ title: My Portfolio
       <button disabled>Code</button>
     </p>
     <div id="demo3" style="display:none;">
-      <video width="100%" height="auto" controls>
+      <video width="100%" height="auto" controls muted autoplay>
         <source src="DemoTravelReminder.mov" type="video/mov">
         Your browser does not support the video tag.
       </video>
