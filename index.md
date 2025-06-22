@@ -25,3 +25,12 @@ title: My Portfolio
   <p>I am a Montessori educator turned software engineer passionate about purpose-driven tech.</p>
 </div>
 
+<script>
+  function showBox(boxId) {
+  const boxes = ['box1', 'box2', 'box3'];
+  boxes.forEach(id => {
+    document.getElementById(id).style.display = (id === boxId) ? 'block' : 'none';
+    });
+  }
+</script>
+
