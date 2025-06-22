@@ -61,7 +61,6 @@ title: My Portfolio
     </ul>
     <p>
       <button onclick="document.getElementById('demo3').style.display='block'">Demo</button>
-      <button disabled>Code</button>
     </p>
     <div id="demo3" style="display:none;">
       <video width="100%" height="auto" controls muted autoplay>
