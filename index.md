@@ -107,8 +107,9 @@ title: My Portfolio
     
     
     <div style="margin-top: 8px;">
-      <span style="background: #f2dede; padding: 4px 8px; border-radius: 6px;">Kivy</span>
+      <span style="background: #f2dede; padding: 4px 8px; border-radius: 6px;">Python</span>
       <span style="background: #d9edf7; padding: 4px 8px; border-radius: 6px;">Game Design</span>
+      <span style="background: #dff0d8; padding: 4px 8px; border-radius: 6px;">Pygame</span>
     </div>
   </div>
 
