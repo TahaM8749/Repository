@@ -145,9 +145,7 @@ title: My Portfolio
 
   <!-- Project Card -->
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
-    <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 40px;">
-      <div style="flex: 1;">
-        <h3>Find the Number </h3>
+       <h3>Find the Number </h3>
         <p>A number-finding game built in Python using Pygame. It includes multiple rounds, interactive line drawing, sound feedback, and game logic that ends on incorrect selections.</p>
         <p>
           <button onclick="document.getElementById('demo9').style.display='block'">Demo</button>
@@ -157,10 +155,6 @@ title: My Portfolio
               <source src="FindNumberDemo.mov" type="video/mp4">
               Your browser does not support the video tag.
             </video>
-          </div>
-      </div>
-  
-    
     <img src="FindNumber.png" alt="Find the Number Game" style="width: 100%; border-radius: 10px;">
   </div>  
     <div style="margin-top: 8px;">
@@ -175,8 +169,7 @@ title: My Portfolio
   <!-- Another Project Card -->
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
     
-    <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 40px;">
-        <div style="flex: 1;">
+    
         <h3>✈️ Travel Reminder</h3>
           <p>An intelligent travel assistant built using <strong>n8n</strong>, this project automates the task of reminding travelers about their upcoming trips and enriches the experience with destination-specific suggestions. The workflow checks travel dates from stored documents, identifies travelers with an upcoming trip, and automatically sends a personalized email reminder a day before departure.</p>
           <p>The system is:</p>
@@ -194,8 +187,6 @@ title: My Portfolio
                 <source src="DemoTravelReminder.mov" type="video/mp4">
                 Your browser does not support the video tag.
               </video>
-          </div>
-        </div>
         <img src="TravelReminder.png" alt="Travel Reminder" width="300" style="border-radius: 10px;">
     </div>
     <div style="margin-top: 8px;">
@@ -209,8 +200,6 @@ title: My Portfolio
 
 <!-- Another Project Card -->
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
-      <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 40px;">
-        <div style="flex: 1;">
         <h3>📝 Word Builder Challenge</h3>
           <p>
             A one-minute word game where players build valid words using only the letters from a long given word. Includes live word validation and scoring. Built in Python with a focus on string handling, timers, and dictionary APIs.
@@ -223,8 +212,6 @@ title: My Portfolio
               <source src="DemoGenWords.mov" type="video/mp4">
               Your browser does not support the video tag.
             </video>
-          </div>
-        </div>
         <img src="GenWords.png" alt="Gen Words" width="300" style="border-radius: 10px;">
     </div>
     <div style="margin-top: 8px;">
