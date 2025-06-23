@@ -167,10 +167,10 @@ title: My Portfolio
       <li><strong>Scalable</strong>: Easily extendable to include weather forecasts and local events.</li>
     </ul>
     <p>
-      <button onclick="document.getElementById('demo3').style.display='block'">Demo</button>
+      <button onclick="document.getElementById('demo8').style.display='block'">Demo</button>
     </p>
-    <div id="demo3" style="display:none;">
-      <video width="100%" height="auto" controls muted autoplay>
+    <div id="demo8" style="display:none;">
+      <video width="48%" height="auto" controls muted autoplay>
         <source src="DemoTravelReminder.mov" type="video/mp4">
         Your browser does not support the video tag.
       </video>
