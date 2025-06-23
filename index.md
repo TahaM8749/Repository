@@ -151,18 +151,18 @@ title: My Portfolio
         <p>A number-finding game built in Python using Pygame. It includes multiple rounds, interactive line drawing, sound feedback, and game logic that ends on incorrect selections.</p>
         <p>
           <button onclick="document.getElementById('demo1').style.display='block'">Demo</button>
+         </p> 
           <div id="demo1" style="display:none;">
-            <video width="100%" height="auto" controls muted autoplay>
+            <video width="48%" height="auto" controls muted autoplay>
               <source src="FindNumberDemo.mov" type="video/mp4">
               Your browser does not support the video tag.
             </video>
           </div>
-        </p>
       </div>
-  </div>
+  
     
     <img src="FindNumber.png" alt="Find the Number Game" style="width: 100%; border-radius: 10px;">
-    
+  </div>  
     <div style="margin-top: 8px;">
       <span style="background: #f2dede; padding: 4px 8px; border-radius: 6px;">Python</span>
       <span style="background: #d9edf7; padding: 4px 8px; border-radius: 6px;">Game Design</span>
@@ -190,7 +190,7 @@ title: My Portfolio
             <button onclick="document.getElementById('demo3').style.display='block'">Demo</button>
           </p>
           <div id="demo3" style="display:none;">
-              <video width="100%" height="auto" controls muted autoplay>
+              <video width="48%" height="auto" controls muted autoplay>
                 <source src="DemoTravelReminder.mov" type="video/mp4">
                 Your browser does not support the video tag.
               </video>
@@ -219,7 +219,7 @@ title: My Portfolio
             <button onclick="document.getElementById('demo6').style.display='block'">Demo</button>
           </p>
           <div id="demo6" style="display:none;">
-            <video width="100%" height="auto" controls muted autoplay>
+            <video width="48%" height="auto" controls muted autoplay>
               <source src="DemoGenWords.mov" type="video/mp4">
               Your browser does not support the video tag.
             </video>
