@@ -143,6 +143,11 @@ title: My Portfolio
 ## About Me 
 
 <p>
+  <button onclick="document.getElementById('demo6').style.display='block'">Resume</button>
+</p>
+
+
+<p>
   I am a Montessori educator turned software engineer passionate about purpose-driven tech. I bring empathy, rapid learning, and creativity into every line of code. With a strong background in Python, AI, and frontend development, I create tools that solve real problems and inspire curiosity.
 </p>
 
