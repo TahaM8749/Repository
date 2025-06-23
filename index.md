@@ -140,6 +140,35 @@ title: My Portfolio
 
 
 ---
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+  <!-- Project Card -->
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
+    <img src="FindNumber.png" alt="Find the Number Game" style="width: 100%; border-radius: 10px;">
+    <h3>Find the Number (Python + Pygame)</h3>
+    <div style="margin-top: 8px;">
+      <span style="background: #f2dede; padding: 4px 8px; border-radius: 6px;">Python</span>
+      <span style="background: #d9edf7; padding: 4px 8px; border-radius: 6px;">Game Design</span>
+      <span style="background: #dff0d8; padding: 4px 8px; border-radius: 6px;">Pygame</span>
+    </div>
+  </div>
+
+  <!-- Another Project Card -->
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
+    <img src="DemoTravelReminder.png" alt="Travel Reminder" style="width: 100%; border-radius: 10px;">
+    <h3>Travel Reminder & Explorer (n8n)</h3>
+    <div style="margin-top: 8px;">
+      <span style="background: #fcf8e3; padding: 4px 8px; border-radius: 6px;">n8n</span>
+      <span style="background: #d9edf7; padding: 4px 8px; border-radius: 6px;">Automation</span>
+      <span style="background: #f5f5f5; padding: 4px 8px; border-radius: 6px;">Node.js</span>
+    </div>
+  </div>
+
+  <!-- Add more cards in the same format -->
+
+</div>
+
 ## About Me 
 
 <p>
