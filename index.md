@@ -147,7 +147,7 @@ title: My Portfolio
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
     <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 40px;">
       <div style="flex: 1;">
-        <h3>Find the Number (Python + Pygame)</h3>
+        <h3>Find the Number </h3>
         <p>A number-finding game built in Python using Pygame. It includes multiple rounds, interactive line drawing, sound feedback, and game logic that ends on incorrect selections.</p>
         <p>
           <button onclick="document.getElementById('demo1').style.display='block'">Demo</button>
@@ -208,10 +208,7 @@ title: My Portfolio
 -------
 
 <!-- Another Project Card -->
-        <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
-          
-          
-      
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
       <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 40px;">
         <div style="flex: 1;">
         <h3>📝 Word Builder Challenge</h3>
@@ -233,6 +230,7 @@ title: My Portfolio
     <div style="margin-top: 8px;">
       <span style="background: #fcf8e3; padding: 4px 8px; border-radius: 6px;">Python</span>
       <span style="background: #d9edf7; padding: 4px 8px; border-radius: 6px;">Kivy</span>
+      <span style="background: #dff0d8; padding: 4px 8px; border-radius: 6px;">Game Design</span>
     </div>
   </div>
 
