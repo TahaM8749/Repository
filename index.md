@@ -13,6 +13,7 @@ title: My Portfolio
   <!-- Project Card -->
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
        <h3>Find the Number </h3>
+    <img src="FindNumber.png" alt="Find the Number Game" style="width: 100%; border-radius: 10px;">
         <p>A number-finding game built in Python using Pygame. It includes multiple rounds, interactive line drawing, sound feedback, and game logic that ends on incorrect selections.</p>
         <p>
           <button onclick="document.getElementById('demo9').style.display='block'">Demo</button>
@@ -22,7 +23,6 @@ title: My Portfolio
               <source src="FindNumberDemo.mov" type="video/mp4">
               Your browser does not support the video tag.
             </video>
-    <img src="FindNumber.png" alt="Find the Number Game" style="width: 100%; border-radius: 10px;">
   </div>  
     <div style="margin-top: 8px;">
       <span style="background: #f2dede; padding: 4px 8px; border-radius: 6px;">Python</span>
