@@ -89,7 +89,7 @@ title: My Portfolio
       </video>
     </div>
   </div>
-  <img src="hangman.png" alt="Travel Reminder" width="300" style="border-radius: 10px;">
+  <img src="hangman.png" alt="Hangman" width="300" style="border-radius: 10px;">
 </div>
 
 ---
@@ -110,7 +110,7 @@ title: My Portfolio
       </video>
     </div>
   </div>
-  <img src="20Questions.png" alt="Travel Reminder" width="300" style="border-radius: 10px;">
+  <img src="20Questions.png" alt="20 Questions" width="300" style="border-radius: 10px;">
 </div>
 
 ---
