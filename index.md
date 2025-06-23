@@ -148,16 +148,16 @@ title: My Portfolio
 
 <div style="display: flex; justify-content: space-around; text-align: center; margin-top: 20px;">
   <div>
-    <h4>Efficiency</h4>
-    <p style="font-size: 24px; font-weight: bold;">70%</p>
+    <h4>Enrichment Initiative</h4>
+    <p style="font-size: 24px; font-weight: bold;">90%</p>
   </div>
   <div>
-    <h4>Streamlining</h4>
-    <p style="font-size: 24px; font-weight: bold;">60%</p>
+    <h4>Growth in Key Metrics</h4>
+    <p style="font-size: 24px; font-weight: bold;">90%</p>
   </div>
   <div>
     <h4>Team Collaboration</h4>
-    <p style="font-size: 24px; font-weight: bold;">90%</p>
+    <p style="font-size: 24px; font-weight: bold;">100%</p>
   </div>
 </div>
 
