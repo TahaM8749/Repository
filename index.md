@@ -7,7 +7,7 @@ title: My Portfolio
 
 ## My Projects
 
-### Find the Number
+### Find the Number (Python + Pygame)
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 40px;">
   <div style="flex: 1;">
@@ -94,7 +94,7 @@ title: My Portfolio
 
 ---
 
-### 🧠 20 Questions Game – Python Edition using AI
+### 🧠 20 Questions Game (Python using AI + Kivy)
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 40px;">
   <div style="flex: 1;">
