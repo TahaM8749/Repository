@@ -191,6 +191,8 @@ title: My Portfolio
       <span style="background: #fcf8e3; padding: 4px 8px; border-radius: 6px;">n8n</span>
       <span style="background: #d9edf7; padding: 4px 8px; border-radius: 6px;">Automation</span>
       <span style="background: #f5f5f5; padding: 4px 8px; border-radius: 6px;">Node.js</span>
+     
+     
     </div>
   </div>
 
@@ -261,9 +263,32 @@ title: My Portfolio
       </video>
     </div>
     <div style="margin-top: 8px;">
-      <span style="background: #fcf8e3; padding: 4px 8px; border-radius: 6px;">n8n</span>
-      <span style="background: #d9edf7; padding: 4px 8px; border-radius: 6px;">Automation</span>
-      <span style="background: #f5f5f5; padding: 4px 8px; border-radius: 6px;">Node.js</span>
+      <span style="background: #fcf8e3; padding: 4px 8px; border-radius: 6px;">Kivy</span>
+      <span style="background: #d9edf7; padding: 4px 8px; border-radius: 6px;">AI</span>
+      <span style="background: #f5f5f5; padding: 4px 8px; border-radius: 6px;">Game Design</span>
+       <span style="background:  #e6e6fa; padding: 4px 8px; border-radius: 6px;">Python</span>
+    </div>
+  </div>
+
+ <!-- Another Project Card -->
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
+   
+    <h3>🧠 Connect the Dotse</h3>
+     <img src="connectTheDots.jpeg" alt="Travel Reminder" style="width: 100%; border-radius: 10px;">
+     <p>An interactive game where players take turns drawing lines to complete squares. Built in Kivy, this project highlights turn-based gameplay, dynamic UI updates, and scoring logic.</p>
+    <p>
+      <button onclick="document.getElementById('demo12').style.display='block'">Demo</button>
+    </p>
+      <div id="demo12" style="display:none;">
+        <video width="100%" height="auto" controls muted autoplay>
+          <source src="demoVideo.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+    <div style="margin-top: 8px;">
+      <span style="background: #fcf8e3; padding: 4px 8px; border-radius: 6px;">Game Design</span>
+      <span style="background: #d9edf7; padding: 4px 8px; border-radius: 6px;">Kivy</span>
+      <span style="background: #f5f5f5; padding: 4px 8px; border-radius: 6px;">Python</span>
     </div>
   </div>
 
