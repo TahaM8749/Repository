@@ -105,7 +105,7 @@ title: My Portfolio
     </p>
     <div id="demo5" style="display:none;">
       <video width="100%" height="auto" controls muted autoplay>
-        <source src="Demo20Questions.mp4" type="video/mp4">
+        <source src="Demo20Questions.mov" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </div>
