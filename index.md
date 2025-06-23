@@ -170,6 +170,8 @@ title: My Portfolio
     </div>
   </div>
 
+-------
+
   <!-- Another Project Card -->
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
     
@@ -203,7 +205,36 @@ title: My Portfolio
     </div>
   </div>
 
-  <!-- Add more cards in the same format -->
+-------
+
+<!-- Another Project Card -->
+        <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
+          
+          
+      
+      <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 40px;">
+        <div style="flex: 1;">
+        <h3>📝 Word Builder Challenge</h3>
+          <p>
+            A one-minute word game where players build valid words using only the letters from a long given word. Includes live word validation and scoring. Built in Python with a focus on string handling, timers, and dictionary APIs.
+       </p>
+          <p>
+            <button onclick="document.getElementById('demo6').style.display='block'">Demo</button>
+          </p>
+          <div id="demo6" style="display:none;">
+            <video width="100%" height="auto" controls muted autoplay>
+              <source src="DemoGenWords.mov" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </div>
+        </div>
+        <img src="GenWords.png" alt="Gen Words" width="300" style="border-radius: 10px;">
+    </div>
+    <div style="margin-top: 8px;">
+      <span style="background: #fcf8e3; padding: 4px 8px; border-radius: 6px;">Python</span>
+      <span style="background: #d9edf7; padding: 4px 8px; border-radius: 6px;">Kivy</span>
+    </div>
+  </div>
 
 </div>
 
