@@ -150,9 +150,9 @@ title: My Portfolio
         <h3>Find the Number </h3>
         <p>A number-finding game built in Python using Pygame. It includes multiple rounds, interactive line drawing, sound feedback, and game logic that ends on incorrect selections.</p>
         <p>
-          <button onclick="document.getElementById('demo1').style.display='block'">Demo</button>
+          <button onclick="document.getElementById('demo9').style.display='block'">Demo</button>
          </p> 
-          <div id="demo1" style="display:none;">
+          <div id="demo9" style="display:none;">
             <video width="48%" height="auto" controls muted autoplay>
               <source src="FindNumberDemo.mov" type="video/mp4">
               Your browser does not support the video tag.
@@ -187,9 +187,9 @@ title: My Portfolio
             <li><strong>Scalable</strong>: Easily extendable to include weather forecasts and local events.</li>
           </ul>
           <p>
-            <button onclick="document.getElementById('demo3').style.display='block'">Demo</button>
+            <button onclick="document.getElementById('demo8').style.display='block'">Demo</button>
           </p>
-          <div id="demo3" style="display:none;">
+          <div id="demo8" style="display:none;">
               <video width="48%" height="auto" controls muted autoplay>
                 <source src="DemoTravelReminder.mov" type="video/mp4">
                 Your browser does not support the video tag.
@@ -216,9 +216,9 @@ title: My Portfolio
             A one-minute word game where players build valid words using only the letters from a long given word. Includes live word validation and scoring. Built in Python with a focus on string handling, timers, and dictionary APIs.
        </p>
           <p>
-            <button onclick="document.getElementById('demo6').style.display='block'">Demo</button>
+            <button onclick="document.getElementById('demo7').style.display='block'">Demo</button>
           </p>
-          <div id="demo6" style="display:none;">
+          <div id="demo7" style="display:none;">
             <video width="48%" height="auto" controls muted autoplay>
               <source src="DemoGenWords.mov" type="video/mp4">
               Your browser does not support the video tag.
