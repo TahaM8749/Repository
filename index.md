@@ -115,6 +115,31 @@ title: My Portfolio
 
 ---
 
+---
+
+### 📝 Word Builder Challenge – (Python + Kivy)
+
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 40px;">
+  <div style="flex: 1;">
+    <p>
+      A one-minute word game where players build valid words using only the letters from a long given word. Includes live word validation and scoring. Built in Python with a focus on string handling, timers, and dictionary APIs.
+ </p>
+    <p>
+      <button onclick="document.getElementById('demo6').style.display='block'">Demo</button>
+    </p>
+    <div id="demo6" style="display:none;">
+      <video width="100%" height="auto" controls muted autoplay>
+        <source src="DemoGenWords.mov" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+  </div>
+  <img src="GenWords.png" alt="Gen Words" width="300" style="border-radius: 10px;">
+</div>
+
+
+
+---
 ## About Me 
 <p>
   I am a Montessori educator turned software engineer passionate about purpose-driven tech. I bring empathy, rapid learning, and creativity into every line of code. With a strong background in Python, AI, and frontend development, I create tools that solve real problems and inspire curiosity.
