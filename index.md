@@ -141,6 +141,26 @@ title: My Portfolio
 
 ---
 ## About Me 
+
 <p>
   I am a Montessori educator turned software engineer passionate about purpose-driven tech. I bring empathy, rapid learning, and creativity into every line of code. With a strong background in Python, AI, and frontend development, I create tools that solve real problems and inspire curiosity.
 </p>
+
+<div style="display: flex; justify-content: space-around; text-align: center; margin-top: 20px;">
+  <div>
+    <h4>Efficiency</h4>
+    <p style="font-size: 24px; font-weight: bold;">70%</p>
+  </div>
+  <div>
+    <h4>Streamlining</h4>
+    <p style="font-size: 24px; font-weight: bold;">60%</p>
+  </div>
+  <div>
+    <h4>Team Collaboration</h4>
+    <p style="font-size: 24px; font-weight: bold;">90%</p>
+  </div>
+</div>
+
+
+
+
