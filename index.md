@@ -156,8 +156,25 @@ title: My Portfolio
 
   <!-- Another Project Card -->
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
-    <img src="DemoTravelReminder.png" alt="Travel Reminder" style="width: 100%; border-radius: 10px;">
-    <h3>Travel Reminder & Explorer (n8n)</h3>
+    <img src="TravelReminder.png" alt="Travel Reminder" style="width: 100%; border-radius: 10px;">
+    <h3>Travel Reminder </h3>
+    <p>An intelligent travel assistant built using <strong>n8n</strong>, this project automates the task of reminding travelers about their upcoming trips and enriches the experience with destination-specific suggestions. The workflow checks travel dates from stored documents, identifies travelers with an upcoming trip, and automatically sends a personalized email reminder a day before departure.</p>
+    <p>The system is:</p>
+    <ul>
+      <li><strong>Efficient</strong>: Automatically parses and processes travel data daily.</li>
+      <li><strong>Smart</strong>: Matches travel destinations with curated local recommendations.</li>
+      <li><strong>Reliable</strong>: Uses n8n’s powerful scheduling and automation.</li>
+      <li><strong>Scalable</strong>: Easily extendable to include weather forecasts and local events.</li>
+    </ul>
+    <p>
+      <button onclick="document.getElementById('demo3').style.display='block'">Demo</button>
+    </p>
+    <div id="demo3" style="display:none;">
+      <video width="100%" height="auto" controls muted autoplay>
+        <source src="DemoTravelReminder.mov" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
     <div style="margin-top: 8px;">
       <span style="background: #fcf8e3; padding: 4px 8px; border-radius: 6px;">n8n</span>
       <span style="background: #d9edf7; padding: 4px 8px; border-radius: 6px;">Automation</span>
