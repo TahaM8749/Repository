@@ -91,7 +91,9 @@ title: My Portfolio
   </div>
   <img src="hangman.png" alt="Travel Reminder" width="300" style="border-radius: 10px;">
 </div>
+
 ---
+
 ### 🧠 20 Questions Game – Python Edition using AI
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 40px;">
@@ -111,6 +113,7 @@ title: My Portfolio
   <img src="20Questions.png" alt="Travel Reminder" width="300" style="border-radius: 10px;">
 </div>
 
+---
 
 ## About Me 
 <p>
