@@ -91,6 +91,25 @@ title: My Portfolio
   </div>
   <img src="hangman.png" alt="Travel Reminder" width="300" style="border-radius: 10px;">
 </div>
+---
+### 🧠 20 Questions Game – Python Edition using AI
+
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 40px;">
+  <div style="flex: 1;">
+    <p>
+      A classic interactive guessing game where the human beings tries to determine what the computer is thinking of by asking a series of yes/no questions. The goal is for the human beings to guess the correct object, person, or concept in 20 questions or fewer. </p>
+    <p>
+      <button onclick="document.getElementById('demo5').style.display='block'">Demo</button>
+    </p>
+    <div id="demo5" style="display:none;">
+      <video width="100%" height="auto" controls muted autoplay>
+        <source src="Demo20Questions.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+  </div>
+  <img src="20Questions.png" alt="Travel Reminder" width="300" style="border-radius: 10px;">
+</div>
 
 
 ## About Me 
