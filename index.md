@@ -164,13 +164,11 @@ title: My Portfolio
     </div>
   </div>
 
--------
-
   <!-- Another Project Card -->
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
     
-    
         <h3>✈️ Travel Reminder</h3>
+        <img src="TravelReminder.png" alt="Travel Reminder" width="300" style="border-radius: 10px;">
           <p>An intelligent travel assistant built using <strong>n8n</strong>, this project automates the task of reminding travelers about their upcoming trips and enriches the experience with destination-specific suggestions. The workflow checks travel dates from stored documents, identifies travelers with an upcoming trip, and automatically sends a personalized email reminder a day before departure.</p>
           <p>The system is:</p>
           <ul>
@@ -187,7 +185,7 @@ title: My Portfolio
                 <source src="DemoTravelReminder.mov" type="video/mp4">
                 Your browser does not support the video tag.
               </video>
-        <img src="TravelReminder.png" alt="Travel Reminder" width="300" style="border-radius: 10px;">
+        
     </div>
     <div style="margin-top: 8px;">
       <span style="background: #fcf8e3; padding: 4px 8px; border-radius: 6px;">n8n</span>
@@ -196,11 +194,11 @@ title: My Portfolio
     </div>
   </div>
 
--------
 
 <!-- Another Project Card -->
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
         <h3>📝 Word Builder Challenge</h3>
+        <img src="GenWords.png" alt="Gen Words" width="300" style="border-radius: 10px;">
           <p>
             A one-minute word game where players build valid words using only the letters from a long given word. Includes live word validation and scoring. Built in Python with a focus on string handling, timers, and dictionary APIs.
        </p>
@@ -212,7 +210,7 @@ title: My Portfolio
               <source src="DemoGenWords.mov" type="video/mp4">
               Your browser does not support the video tag.
             </video>
-        <img src="GenWords.png" alt="Gen Words" width="300" style="border-radius: 10px;">
+        
     </div>
     <div style="margin-top: 8px;">
       <span style="background: #fcf8e3; padding: 4px 8px; border-radius: 6px;">Python</span>
@@ -221,12 +219,11 @@ title: My Portfolio
     </div>
   </div>
 
------
-
-
  <!-- Project Card -->
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
     <h3>📝 Word Builder Challenge</h3>
+    <img src="GenWords.png" alt="Find the Number Game" style="width: 100%; border-radius: 10px;">
+    
     <p>
       A one-minute word game where players build valid words using only the letters from a long given word. Includes live word validation         and scoring. Built in Python with a focus on string handling, timers, and dictionary APIs.
    </p>
@@ -239,7 +236,6 @@ title: My Portfolio
         Your browser does not support the video tag.
       </video>
     </div>
-    <img src="GenWords.png" alt="Find the Number Game" style="width: 100%; border-radius: 10px;">
     
     
     <div style="margin-top: 8px;">
@@ -250,9 +246,20 @@ title: My Portfolio
 
   <!-- Another Project Card -->
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
-    <img src="DemoTravelReminder.png" alt="Travel Reminder" style="width: 100%; border-radius: 10px;">
-    <h3>Travel Reminder & Explorer (n8n)</h3>
-    <a href="https://github.com/your-repo-link">github.com/your-repo-link</a>
+   
+    <h3>🧠 20 Questions Game</h3>
+     <img src="20Questions.png" alt="Travel Reminder" style="width: 100%; border-radius: 10px;">
+     <p>
+      A classic interactive guessing game where the human beings tries to determine what the computer is thinking of by asking a series of yes/no questions. The goal is for the human beings to guess the correct object, person, or concept in 20 questions or fewer. </p>
+    <p>
+      <button onclick="document.getElementById('demo11').style.display='block'">Demo</button>
+    </p>
+    <div id="demo11" style="display:none;">
+      <video width="100%" height="auto" controls muted autoplay>
+        <source src="Demo20Questions.mov" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
     <div style="margin-top: 8px;">
       <span style="background: #fcf8e3; padding: 4px 8px; border-radius: 6px;">n8n</span>
       <span style="background: #d9edf7; padding: 4px 8px; border-radius: 6px;">Automation</span>
