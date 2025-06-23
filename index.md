@@ -151,7 +151,7 @@ title: My Portfolio
           <button onclick="document.getElementById('demo9').style.display='block'">Demo</button>
          </p> 
           <div id="demo9" style="display:none;">
-            <video width="48%" height="auto" controls muted autoplay>
+            <video width="100%" height="auto" controls muted autoplay>
               <source src="FindNumberDemo.mov" type="video/mp4">
               Your browser does not support the video tag.
             </video>
@@ -181,7 +181,7 @@ title: My Portfolio
             <button onclick="document.getElementById('demo8').style.display='block'">Demo</button>
           </p>
           <div id="demo8" style="display:none;">
-              <video width="48%" height="auto" controls muted autoplay>
+              <video width="100%" height="auto" controls muted autoplay>
                 <source src="DemoTravelReminder.mov" type="video/mp4">
                 Your browser does not support the video tag.
               </video>
@@ -208,7 +208,7 @@ title: My Portfolio
             <button onclick="document.getElementById('demo7').style.display='block'">Demo</button>
           </p>
           <div id="demo7" style="display:none;">
-            <video width="48%" height="auto" controls muted autoplay>
+            <video width="100%" height="auto" controls muted autoplay>
               <source src="DemoGenWords.mov" type="video/mp4">
               Your browser does not support the video tag.
             </video>
@@ -223,18 +223,17 @@ title: My Portfolio
 
  <!-- Project Card -->
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
-    <h3>📝 Word Builder Challenge</h3>
-    <img src="GenWords.png" alt="Find the Number Game" style="width: 100%; border-radius: 10px;">
+    <h3>🔤 Hangman </h3>
+    <img src="hangman.png" alt="Find the Number Game" style="width: 100%; border-radius: 10px;">
     
     <p>
-      A one-minute word game where players build valid words using only the letters from a long given word. Includes live word validation         and scoring. Built in Python with a focus on string handling, timers, and dictionary APIs.
-   </p>
+      A simple word-guessing game built with Python and Pygame. Players guess letters to uncover a hidden word before the hangman is fully drawn. Features include random word selection, visual feedback, and mouse-based letter interaction.:</p>
     <p>
       <button onclick="document.getElementById('demo10').style.display='block'">Demo</button>
     </p>
     <div id="demo10" style="display:none;">
       <video width="100%" height="auto" controls muted autoplay>
-        <source src="DemoGenWords.mov" type="video/mp4">
+        <source src="hangman.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </div>
