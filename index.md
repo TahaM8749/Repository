@@ -73,6 +73,31 @@ title: My Portfolio
 </div>
 
 ---
+### 🔤 Hangman (Python + Pygame)
+
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 40px;">
+  <div style="flex: 1;">
+    <p>
+      A simple word-guessing game built with Python and Pygame. Players guess letters to uncover a hidden word before the hangman is fully drawn. Features include random word selection, visual feedback, and mouse-based letter interaction.:</p>
+          <ul>
+            <li><strong>Efficient</strong>: Automatically parses and processes travel data daily.</li>
+            <li><strong>Smart</strong>: Matches travel destinations with curated local recommendations.</li>
+            <li><strong>Reliable</strong>: Uses n8n’s powerful scheduling and automation.</li>
+            <li><strong>Scalable</strong>: Easily extendable to include weather forecasts and local events.</li>
+          </ul>
+    <p>
+      <button onclick="document.getElementById('demo4').style.display='block'">Demo</button>
+    </p>
+    <div id="demo4" style="display:none;">
+      <video width="100%" height="auto" controls muted autoplay>
+        <source src="Hangman.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+  </div>
+  <img src="Hangman.png" alt="Travel Reminder" width="300" style="border-radius: 10px;">
+</div>
+
 
 ## About Me 
 <p>
