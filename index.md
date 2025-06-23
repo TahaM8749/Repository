@@ -221,6 +221,45 @@ title: My Portfolio
     </div>
   </div>
 
+-----
+
+
+ <!-- Project Card -->
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
+    <h3>📝 Word Builder Challenge</h3>
+    <p>
+      A one-minute word game where players build valid words using only the letters from a long given word. Includes live word validation         and scoring. Built in Python with a focus on string handling, timers, and dictionary APIs.
+   </p>
+    <p>
+      <button onclick="document.getElementById('demo10').style.display='block'">Demo</button>
+    </p>
+    <div id="demo10" style="display:none;">
+      <video width="100%" height="auto" controls muted autoplay>
+        <source src="DemoGenWords.mov" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+    <img src="GenWords.png" alt="Find the Number Game" style="width: 100%; border-radius: 10px;">
+    
+    
+    <div style="margin-top: 8px;">
+      <span style="background: #f2dede; padding: 4px 8px; border-radius: 6px;">Kivy</span>
+      <span style="background: #d9edf7; padding: 4px 8px; border-radius: 6px;">Game Design</span>
+    </div>
+  </div>
+
+  <!-- Another Project Card -->
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
+    <img src="DemoTravelReminder.png" alt="Travel Reminder" style="width: 100%; border-radius: 10px;">
+    <h3>Travel Reminder & Explorer (n8n)</h3>
+    <a href="https://github.com/your-repo-link">github.com/your-repo-link</a>
+    <div style="margin-top: 8px;">
+      <span style="background: #fcf8e3; padding: 4px 8px; border-radius: 6px;">n8n</span>
+      <span style="background: #d9edf7; padding: 4px 8px; border-radius: 6px;">Automation</span>
+      <span style="background: #f5f5f5; padding: 4px 8px; border-radius: 6px;">Node.js</span>
+    </div>
+  </div>
+
 </div>
 
 ## About Me 
