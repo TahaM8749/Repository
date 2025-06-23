@@ -143,7 +143,7 @@ title: My Portfolio
 ## About Me 
 
 <p>
-  <button onclick="document.getElementById('demo6').style.display='block'">Resume</button>
+  <button onclick="document.getElementById('demo7').style.display='block'">Resume</button>
 </p>
 
 
