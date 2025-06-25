@@ -175,7 +175,7 @@ title: My Portfolio
 <div style="display: flex; justify-content: space-around; text-align: center; margin-top: 20px;">
   <div>
     <h4>Enrichment Initiative</h4>
-    <p style="font-size: 24px; font-weight: bold;">90%</p>
+    <p style="font-size: 24px; font-weight: bold;">80%</p>
   </div>
   <div>
     <h4>Growth in Key Metrics</h4>
