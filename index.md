@@ -161,6 +161,42 @@ title: My Portfolio
 
 </div>
 
+
+<!-- Another Project Card -->
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
+   
+    <h3>Montessori Lessons Recommender</h3>
+     <img src="MontessoriLessons.png" alt="Montessori Lessons flowchart" style="width: 100%; border-radius: 10px;">
+     <p>A full-stack web application that helps Montessori educators recommend age-appropriate lessons for children based on their learning history. Built with Flask (Python) and SQLite for the backend and vanilla JavaScript/HTML/CSS for the frontend, the app features: </p>
+
+     <ul>
+            <li>A dynamic form to input child details and mastered lessons.</li>
+            <li>Real-time lesson name suggestions with autocomplete</li>
+            <li>Automatic recommendation of the next appropriate lesson</li>
+            <li><Visual breakdown of mastered vs. unmastered lessons</li>
+            <li>Integrated Montessori lesson flowchart for reference</li>
+          </ul>
+
+<p>This tool streamlines lesson planning and supports personalized learning paths in Montessori classrooms.</p>
+    <p>
+      <button onclick="document.getElementById('demo1').style.display='block'">Demo</button>
+    </p>
+      <div id="demo1" style="display:none;">
+        <video width="100%" height="auto" controls muted autoplay>
+          <source src="MontessoriLessonsDemo.mov" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+    <div style="margin-top: 8px;">
+      <span style="background: #fcf8e3; padding: 4px 8px; border-radius: 6px;">Game Design</span>
+      <span style="background: #d9edf7; padding: 4px 8px; border-radius: 6px;">Kivy</span>
+      <span style="background: #f5f5f5; padding: 4px 8px; border-radius: 6px;">Python</span>
+    </div>
+  </div>
+
+</div>
+
+
 ## About Me 
 
 <p>
