@@ -164,7 +164,6 @@ title: My Portfolio
 
 <!-- Another Project Card -->
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
-   
     <h3>Montessori Lessons Recommender</h3>
      <img src="MontessoriLessons.png" alt="Montessori Lessons flowchart" style="width: 100%; border-radius: 10px;">
      <p>A full-stack web application that helps Montessori educators recommend age-appropriate lessons for children based on their learning history. Built with Flask (Python) and SQLite for the backend and vanilla JavaScript/HTML/CSS for the frontend, the app features: </p>
@@ -173,7 +172,7 @@ title: My Portfolio
             <li>A dynamic form to input child details and mastered lessons.</li>
             <li>Real-time lesson name suggestions with autocomplete</li>
             <li>Automatic recommendation of the next appropriate lesson</li>
-            <li><Visual breakdown of mastered vs. unmastered lessons</li>
+            <li>Visual breakdown of mastered vs. unmastered lessons</li>
             <li>Integrated Montessori lesson flowchart for reference</li>
           </ul>
 
