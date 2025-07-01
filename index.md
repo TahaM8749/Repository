@@ -75,10 +75,10 @@ title: My Portfolio
     <img src="Screening.png" alt="Screening Checklist" style="width: 100%; border-radius: 10px;">
     <p>A digital screening program to identify potential developmental and sensory needs in children aged 3–6. The tool allows teachers to input classroom observations and instantly generates a structured report highlighting areas of concern. This can help: </p>
     <ul>
-      <li>early intervention efforts</li>
-      <li>improved communication with parents</li>
-      <li>supported more personalized learning approaches</li>
-      <li>empowers educators to track patterns over time and take proactive steps with greater clarity</li>
+      <li>Early intervention efforts</li>
+      <li>Improved communication with parents</li>
+      <li>Supported more personalized learning approaches</li>
+      <li>Empowers educators to track patterns over time and take proactive steps with greater clarity</li>
     </ul>
     <p>This tool streamlines lesson planning and supports personalized learning paths in Montessori classrooms.</p>
     <p>
