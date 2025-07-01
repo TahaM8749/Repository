@@ -69,6 +69,34 @@ title: My Portfolio
     </div>
   </div>
 
+
+<div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
+    <h3>Screening</h3>
+    <img src="Screening.png" alt="Screening Checklist" style="width: 100%; border-radius: 10px;">
+    <p>A digital screening program to identify potential developmental and sensory needs in children aged 3–6. The tool allows teachers to input classroom observations and instantly generates a structured report highlighting areas of concern. This can help: </p>
+    <ul>
+      <li>early intervention efforts</li>
+      <li>improved communication with parents</li>
+      <li>supported more personalized learning approaches</li>
+      <li>empowers educators to track patterns over time and take proactive steps with greater clarity</li>
+    </ul>
+    <p>This tool streamlines lesson planning and supports personalized learning paths in Montessori classrooms.</p>
+    <p>
+      <button onclick="document.getElementById('demo1').style.display='block'">Demo</button>
+    </p>
+    <div id="demo2" style="display:none;">
+      <video width="100%" height="auto" controls muted autoplay>
+        <source src="Screening.mov" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+    <div style="margin-top: 8px;">
+      <span style="background: #fcf8e3; padding: 4px 8px; border-radius: 6px;">Game Design</span>
+      <span style="background: #d9edf7; padding: 4px 8px; border-radius: 6px;">JavaScript</span>
+      <span style="background: #f5f5f5; padding: 4px 8px; border-radius: 6px;">Python</span>
+    </div>
+  </div>
+  
   <!-- Another Project Card -->
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
     <h3>📝 Word Builder Challenge</h3>
