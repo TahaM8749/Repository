@@ -203,7 +203,7 @@ title: Affaaf Mudassir
   <!-- Another Project Card -->
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
     <h3>🧠 Connect the Dots</h3>
-    <img src="DotToDot.jpeg" alt="Connect the Dots" style="width: 100%; border-radius: 10px;">
+    <img src="DotToDot.png" alt="Connect the Dots" style="width: 100%; border-radius: 10px;">
     <p>A game where players can take turns drawing lines to complete squares or play independently. Built in Kivy, this project highlights turn-based gameplay, dynamic UI updates, and scoring logic. This helps in: </p>
    <ul>
       <li>Strategic Thinking – Players learn to plan ahead and anticipate opponents’ moves to gain an advantage.</li>
