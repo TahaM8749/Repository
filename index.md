@@ -34,7 +34,7 @@ title: My Portfolio
     </div>
     <div style="margin-top: 8px;">
       <span style="background: #fcf8e3; padding: 4px 8px; border-radius: 6px;">Game Design</span>
-      <span style="background: #d9edf7; padding: 4px 8px; border-radius: 6px;">Kivy</span>
+      <span style="background: #d9edf7; padding: 4px 8px; border-radius: 6px;">JavaScript</span>
       <span style="background: #f5f5f5; padding: 4px 8px; border-radius: 6px;">Python</span>
     </div>
   </div>
