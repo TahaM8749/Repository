@@ -107,7 +107,7 @@ title: My Portfolio
     </ul>
     <p>This tool streamlines lesson planning and supports personalized learning paths in Montessori classrooms.</p>
     <p>
-      <button onclick="document.getElementById('demo1').style.display='block'">Demo</button>
+      <button onclick="document.getElementById('demo2').style.display='block'">Demo</button>
     </p>
     <div id="demo2" style="display:none;">
       <video width="100%" height="auto" controls muted autoplay>
