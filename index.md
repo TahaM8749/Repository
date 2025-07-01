@@ -33,9 +33,9 @@ title: My Portfolio
       </video>
     </div>
     <div style="margin-top: 8px;">
-      <span style="background: #fcf8e3; padding: 4px 8px; border-radius: 6px;">Game Design</span>
       <span style="background: #d9edf7; padding: 4px 8px; border-radius: 6px;">JavaScript</span>
       <span style="background: #f5f5f5; padding: 4px 8px; border-radius: 6px;">Python</span>
+     <span style="background: #fcf8e3; padding: 4px 8px; border-radius: 6px;">Flask</span>
     </div>
   </div>
 
@@ -91,9 +91,7 @@ title: My Portfolio
       </video>
     </div>
     <div style="margin-top: 8px;">
-      <span style="background: #fcf8e3; padding: 4px 8px; border-radius: 6px;">Game Design</span>
       <span style="background: #d9edf7; padding: 4px 8px; border-radius: 6px;">JavaScript</span>
-      <span style="background: #f5f5f5; padding: 4px 8px; border-radius: 6px;">Python</span>
     </div>
   </div>
   
