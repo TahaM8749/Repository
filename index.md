@@ -5,6 +5,31 @@ title: My Portfolio
 
 # Welcome to My Portfolio
 
+## About Me
+
+<p>
+  <button onclick="document.getElementById('demo7').style.display='block'">Resume</button>
+</p>
+
+<p>
+  Purpose-driven Software Engineer with a strong foundation in full-stack development and AI programming, skilled in Python, ChatGPT, and n8n. Brings a human-centered approach to technology, shaped by a background in Montessori leadership. Proven track record of improving team efficiency, surpassing performance benchmarks, and enhancing engagement through thoughtful design and structured systems. Passion for operational excellence, proactive problem-solving, and a user-first mindset, building inclusive, impactful technology solutions.
+</p>
+
+<div style="display: flex; justify-content: space-around; text-align: center; margin-top: 20px;">
+  <div>
+    <h4>Enrichment Initiative</h4>
+    <p style="font-size: 24px; font-weight: bold;">75%</p>
+  </div>
+  <div>
+    <h4>Growth in Key Metrics</h4>
+    <p style="font-size: 24px; font-weight: bold;">80%</p>
+  </div>
+  <div>
+    <h4>Team Collaboration</h4>
+    <p style="font-size: 24px; font-weight: bold;">80%</p>
+  </div>
+</div>
+
 ## My Projects
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
@@ -99,7 +124,15 @@ title: My Portfolio
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
     <h3>📝 Word Builder Challenge</h3>
     <img src="GenWords.png" alt="Gen Words" width="300" style="border-radius: 10px;">
-    <p>A one-minute word game where players build valid words using only the letters from a long given word. Includes live word validation and scoring. Built in Python with a focus on string handling, timers, and dictionary APIs.</p>
+    <p>A one-minute word game where players build valid words using only the letters from a long given word. Includes live word validation and scoring. Built in Python with a focus on string handling, timers, and dictionary APIs. This short and engaging game can enhance:</p>
+<ul>
+      <li>Enhance Vocabulary</li>
+      <li>Improve Spelling Skills since it encourages accurate spelling and real-time dictionary validation</li>
+      <li>Boost Cognitive Agility as the timer adds pressure and improves focus</li>
+      <li>Learn Word Formation as they become aware of prefixes, suffixes and letter patterns</li>
+      <li>Brain warm-ups</li>
+    </ul>
+  
     <p>
       <button onclick="document.getElementById('demo7').style.display='block'">Demo</button>
     </p>
@@ -141,7 +174,15 @@ title: My Portfolio
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
     <h3>🧠 20 Questions Game</h3>
     <img src="20Questions.png" alt="Travel Reminder" style="width: 100%; border-radius: 10px;">
-    <p>A classic interactive guessing game where the human beings tries to determine what the computer is thinking of by asking a series of yes/no questions. The goal is for the human beings to guess the correct object, person, or concept in 20 questions or fewer.</p>
+    <p>A classic interactive guessing game where the human beings tries to determine what the computer is thinking of by asking a series of yes/no questions. The goal is for the human beings to guess the correct object, person, or concept in 20 questions or fewer. Its can help in developing: </p>
+   <ul>
+    <il>Critical Thinking </il>
+    <il>Logical Reasoning – The game encourages deductive thinking and step-by-step elimination based on limited information.
+</il>
+    <il>Language Development – Formulating clear yes/no questions improves question structure, vocabulary, and clarity.</il>
+    <il>Memory and Categorization – Players must mentally organize information and recall previous questions to avoid repetition.</il>
+    <il>Patience and Focus – Success requires attention to detail and thoughtful decision-making over impulsive guessing.</il>
+   </ul>
     <p>
       <button onclick="document.getElementById('demo11').style.display='block'">Demo</button>
     </p>
@@ -162,8 +203,12 @@ title: My Portfolio
   <!-- Another Project Card -->
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
     <h3>🧠 Connect the Dots</h3>
-    <img src="connectTheDots.jpeg" alt="Connect the Dots" style="width: 100%; border-radius: 10px;">
-    <p>An interactive game where players take turns drawing lines to complete squares. Built in Kivy, this project highlights turn-based gameplay, dynamic UI updates, and scoring logic.</p>
+    <img src="DotToDot.jpeg" alt="Connect the Dots" style="width: 100%; border-radius: 10px;">
+    <p>A game where players can take turns drawing lines to complete squares or play independently. Built in Kivy, this project highlights turn-based gameplay, dynamic UI updates, and scoring logic. This helps in: </p>
+   <ul>
+      <li>Strategic Thinking – Players learn to plan ahead and anticipate opponents’ moves to gain an advantage.</li>
+      <li>Visual-Spatial Reasoning – Completing squares sharpens the ability to recognize patterns and use space effectively.</li>
+    </ul>
     <p>
       <button onclick="document.getElementById('demo12').style.display='block'">Demo</button>
     </p>
@@ -203,27 +248,4 @@ title: My Portfolio
 
 </div>
 
-## About Me
 
-<p>
-  <button onclick="document.getElementById('demo7').style.display='block'">Resume</button>
-</p>
-
-<p>
-  I am a Montessori educator turned software engineer passionate about purpose-driven tech. I bring empathy, rapid learning, and creativity into every line of code. With a strong background in Python, AI, and frontend development, I create tools that solve real problems and inspire curiosity.
-</p>
-
-<div style="display: flex; justify-content: space-around; text-align: center; margin-top: 20px;">
-  <div>
-    <h4>Enrichment Initiative</h4>
-    <p style="font-size: 24px; font-weight: bold;">75%</p>
-  </div>
-  <div>
-    <h4>Growth in Key Metrics</h4>
-    <p style="font-size: 24px; font-weight: bold;">80%</p>
-  </div>
-  <div>
-    <h4>Team Collaboration</h4>
-    <p style="font-size: 24px; font-weight: bold;">90%</p>
-  </div>
-</div>
