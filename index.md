@@ -99,7 +99,7 @@ title: Affaaf Mudassir
   <h3>📝 Notes Taker – Voice Recorder</h3>
   <img src="NotesTaker.png" alt="Notes Taker" style="width: 100%; border-radius: 10px;">
   <p>
-    <strong>NotesTaker</strong> is a web-based tool designed specifically for educators to streamline their observation process. It allows teachers to record, transcribe, and save voice notes linked to individual children for efficient documentation and review.
+    <strong>NoteTaker</strong> is a web-based tool designed specifically for educators to streamline their observation process. It allows teachers to record, transcribe, and save voice notes linked to individual children for efficient documentation and review.
   </p>
   <ul>
     <li>🎙️ <strong>Record:</strong> Capture voice notes directly in the browser</li>
@@ -120,7 +120,7 @@ title: Affaaf Mudassir
     </p>
     <div id="demo3" style="display:none;">
       <video width="100%" height="auto" controls muted autoplay>
-        <source src="DemoNotesTaker.mov" type="video/mp4">
+        <source src="DemoNoteTaker.mov" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </div>
