@@ -96,6 +96,40 @@ title: Affaaf Mudassir
 
 
 <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
+  <h3>📝 Notes Taker – Voice Recorder</h3>
+  <img src="NotesTaker.png" alt="Notes Taker" style="width: 100%; border-radius: 10px;">
+  <p>
+    <strong>NotesTaker</strong> is a web-based tool designed specifically for educators to streamline their observation process. It allows teachers to record, transcribe, and save voice notes linked to individual children for efficient documentation and review.
+  </p>
+  <ul>
+    <li>🎙️ <strong>Record:</strong> Capture voice notes directly in the browser</li>
+    <li>🧠 <strong>Preview:</strong> Automatically transcribe and edit your note</li>
+    <li>💾 <strong>Save:</strong> Securely store each note under the selected child's profile</li>
+    <li>📜 <strong>Review:</strong> Instantly access all past notes for a child</li>
+  </ul>
+  <p><strong>Workflow:</strong></p>
+  <ol>
+    <li>Select an existing child or add a new profile</li>
+    <li>Record your observation using the built-in voice recorder</li>
+    <li>Preview and edit the generated transcript</li>
+    <li>Submit the note to store it in the database</li>
+    <li>Access previous entries anytime for reference</li>
+  </ol>
+  <p>
+      <button onclick="document.getElementById('demo3').style.display='block'">Demo</button>
+    </p>
+    <div id="demo3" style="display:none;">
+      <video width="100%" height="auto" controls muted autoplay>
+        <source src="DemoNotesTaker.mov" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+    <div style="margin-top: 8px;">
+      <span style="background: #d9edf7; padding: 4px 8px; border-radius: 6px;">JavaScript</span>
+    </div>
+</div>
+
+<div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px;">
     <h3>Screening</h3>
     <img src="Screening.png" alt="Screening Checklist" style="width: 100%; border-radius: 10px;">
     <p>A digital screening program to identify potential developmental and sensory needs in children aged 3–6. The tool allows teachers to input classroom observations and instantly generates a structured report highlighting areas of concern. This can help: </p>
