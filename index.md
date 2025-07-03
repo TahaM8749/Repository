@@ -126,6 +126,8 @@ title: Affaaf Mudassir
     </div>
     <div style="margin-top: 8px;">
       <span style="background: #d9edf7; padding: 4px 8px; border-radius: 6px;">JavaScript</span>
+      <span style="background: #f5f5f5; padding: 4px 8px; border-radius: 6px;">Python</span>
+     <span style="background: #fcf8e3; padding: 4px 8px; border-radius: 6px;">Flask</span>
     </div>
 </div>
 
