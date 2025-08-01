@@ -8,7 +8,7 @@ title: Affaaf Mudassir
 ## About Me
 
 <p>
-  <a href="resume for LinkdIn.pdf" target="_blank">
+  <a href="Resume for LinkedIn.pdf" target="_blank">
     <button>Resume</button>
   </a>
 </p>
