@@ -8,8 +8,11 @@ title: Affaaf Mudassir
 ## About Me
 
 <p>
-  <button onclick="document.getElementById('demo7').style.display='block'">Resume</button>
+  <a href="resume for LinkdIn.pdf" target="_blank">
+    <button>Resume</button>
+  </a>
 </p>
+
 
 <p>
   Purpose-driven Software Engineer with a strong foundation in full-stack development and AI programming, skilled in Python, ChatGPT, and n8n. Brings a human-centered approach to technology, shaped by a background in Montessori leadership. Proven track record of improving team efficiency, surpassing performance benchmarks, and enhancing engagement through thoughtful design and structured systems. Passion for operational excellence, proactive problem-solving, and a user-first mindset, building inclusive, impactful technology solutions.
